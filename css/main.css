@@ -1,0 +1,21 @@
+/* styles.css */
+
+@import url('https://fonts.googleapis.com/css?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+body {
+  background-color: transparent;
+}
+
+html {
+ background-color: black;
+}
+
