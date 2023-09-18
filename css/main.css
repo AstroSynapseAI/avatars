@@ -103,6 +103,11 @@ h5 {
   z-index: 1;
 }
 
+.avatars-features h4 {
+  color: #FFDFD8;
+  padding: 40px 0 0 40px;
+}
+
 .avatars-features .border {
   padding: 15px;
   min-height: 315px;
